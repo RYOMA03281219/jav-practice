@@ -5,6 +5,7 @@ nickname = "ichiro"
 console.log(nickname)
 
 
+
 var str = "webcamp"
 
 function foo() {
