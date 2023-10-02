@@ -15,3 +15,5 @@ function foo() {
 }
 
 foo()
+
+function
