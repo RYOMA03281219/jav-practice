@@ -14,6 +14,7 @@ function foo() {
   console.log(str)
 }
 
+
 foo()
 
 function
